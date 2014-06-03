@@ -1,0 +1,11 @@
+{ "layer": [
+{"name":"e002_common_diary_img_index_thumb00", "posX":362.5, "posY":444, "width":281, "height":214},
+{"name":"e002_common_diary_img_index_thumb01", "posX":677.5, "posY":443.5, "width":279, "height":211},
+{"name":"e002_common_diary_img_index_thumb02", "posX":362.5, "posY":195, "width":283, "height":216},
+{"name":"e002_common_diary_img_index_thumb03", "posX":677.5, "posY":185, "width":287, "height":222},
+{"name":"e002_common_diary_img_index_bg", "posX":512, "posY":384, "width":1024, "height":768},
+{"name":"e002_c030_common_img_btn_index_n", "posX":49, "posY":695.5, "width":70, "height":69},
+{"name":"e002_c030_common_img_btn_index_s", "posX":49, "posY":695.5, "width":70, "height":69},
+{"name":"e002_c030_common_img_btn_info_n", "posX":976, "posY":695.5, "width":70, "height":69},
+{"name":"e002_c030_common_img_btn_info_s", "posX":976, "posY":695.5, "width":70, "height":69}
+]}

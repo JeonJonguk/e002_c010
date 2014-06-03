@@ -1,0 +1,9 @@
+{ "layer": [
+{"name":"e002_common_img_guide_title", "posX":130.5, "posY":680, "width":261, "height":94},
+{"name":"e002_common_img_btn_start_n", "posX":900.5, "posY":88, "width":191, "height":86},
+{"name":"e002_common_img_btn_start_s", "posX":900.5, "posY":88, "width":191, "height":86},
+{"name":"e002_common_img_btn_prev_n", "posX":123.5, "posY":88, "width":191, "height":86},
+{"name":"e002_common_img_btn_prev_s", "posX":123.5, "posY":88, "width":191, "height":86},
+{"name":"e002_common_img_btn_next_n", "posX":900.5, "posY":88, "width":191, "height":86},
+{"name":"e002_common_img_btn_next_s", "posX":900.5, "posY":88, "width":191, "height":86}
+]}

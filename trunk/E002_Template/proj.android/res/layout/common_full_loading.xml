@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<LinearLayout android:id="@+id/fullloading_layout"
+		android:layout_width="fill_parent" android:layout_height="fill_parent"
+		android:gravity="center" android:background="#a3000000">
+		<TextView android:id="@+id/text" android:layout_width="wrap_content"
+			android:singleLine="true" android:layout_height="wrap_content"
+			android:layout_centerInParent="true" android:textSize="44px"
+			android:textColor="#cccccc" android:text="Loading" android:gravity="center_vertical" />
+		<ProgressBar android:id="@+id/loading_anim"
+			android:layout_width="60px" android:layout_height="60px"
+			android:layout_marginLeft="15px" android:layout_gravity="center_horizontal|center_vertical"
+			android:indeterminateOnly="true" android:indeterminateDrawable="@xml/common_icon_loading" />
+	</LinearLayout>
+</LinearLayout>

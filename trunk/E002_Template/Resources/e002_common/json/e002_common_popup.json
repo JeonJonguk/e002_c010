@@ -1,0 +1,9 @@
+{ "layer": [
+{"name":"e002_common_btn_end_next_n", "posX":631, "posY":328, "width":194, "height":202},
+{"name":"e002_common_btn_end_next_s", "posX":631, "posY":328, "width":194, "height":202},
+{"name":"e002_common_btn_end_replay_n", "posX":405, "posY":328, "width":194, "height":202},
+{"name":"e002_common_btn_end_replay_s", "posX":405, "posY":328, "width":194, "height":202},
+{"name":"e002_common_img_end_text00", "posX":509, "posY":504, "width":574, "height":62},
+{"name":"e002_common_img_end_text01", "posX":509, "posY":504, "width":574, "height":62},
+{"name":"e002_common_img_end_text02", "posX":509, "posY":504, "width":574, "height":62}
+]}

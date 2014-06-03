@@ -1,0 +1,10 @@
+{ "layer": [
+{"name":"e002_common_diary_write_img_bg00", "posX":514, "posY":390, "width":884, "height":498},
+{"name":"e002_common_diary_write_img_bg01", "posX":512, "posY":384, "width":1024, "height":768},
+{"name":"e002_common_diary_btn_ok_n", "posX":618.5, "posY":78.5, "width":181, "height":85},
+{"name":"e002_common_diary_btn_ok_s", "posX":618.5, "posY":78.5, "width":181, "height":85},
+{"name":"e002_common_diary_btn_rewrite_n", "posX":409.5, "posY":78.5, "width":181, "height":85},
+{"name":"e002_common_diary_btn_rewrite_s", "posX":409.5, "posY":79.5, "width":181, "height":85},
+{"name":"e002_common_diary_btn_close_n", "posX":976, "posY":695.5, "width":70, "height":69},
+{"name":"e002_common_diary_btn_close_s", "posX":976, "posY":695.5, "width":70, "height":69}
+]}

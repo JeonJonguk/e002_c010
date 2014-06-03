@@ -1,0 +1,15 @@
+{ "layer": [
+{"name":"e002_c010_p300_reward_popup_bg", "posX":518, "posY":393, "width":768, "height":250},
+{"name":"e002_c010_p300_reward_piece_00_popup", "posX":226, "posY":391, "width":102, "height":98},
+{"name":"e002_c010_p300_reward_piece_01_popup", "posX":345.5, "posY":389, "width":129, "height":50},
+{"name":"e002_c010_p300_reward_piece_02_popup", "posX":480, "posY":391, "width":96, "height":72},
+{"name":"e002_c010_p300_reward_piece_03_popup", "posX":598, "posY":392, "width":70, "height":110},
+{"name":"e002_c010_p300_reward_piece_04_popup", "posX":690, "posY":392.5, "width":82, "height":65},
+{"name":"e002_c010_p300_reward_piece_05_popup", "posX":804.5, "posY":391, "width":95, "height":92},
+{"name":"e002_c010_p300_reward_piece_00_get", "posX":513, "posY":391.5, "width":202, "height":195},
+{"name":"e002_c010_p300_reward_piece_01_get", "posX":510, "posY":389.5, "width":220, "height":131},
+{"name":"e002_c010_p300_reward_piece_02_get", "posX":509.5, "posY":392.5, "width":197, "height":159},
+{"name":"e002_c010_p300_reward_piece_03_get", "posX":498.5, "posY":393.5, "width":155, "height":209},
+{"name":"e002_c010_p300_reward_piece_04_get", "posX":513.5, "posY":395, "width":177, "height":150},
+{"name":"e002_c010_p300_reward_piece_05_get", "posX":511.5, "posY":392.5, "width":191, "height":189}
+]}
